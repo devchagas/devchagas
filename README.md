@@ -1,9 +1,10 @@
 # Gabriel Chagas
 
-Olá, Eu sou o Gabriel, estou no último semestre do bacharelado em Ciências da Computação pela UNESP Rio Claro.
+Olá, Eu sou o Gabriel, estou no último semestre do bacharelado em Ciências da Computação pela UNESP Rio Claro. Adoro aprender coisas novas e principalmente como elas funcionam por debaixo do capô e encontrei na tecnologia a combinação perfeita disso.
 
-Atualmente estudando e criando portfolio em desenvolvimento web com Java Spring Boot e Angular e me aventurando em desenvolvimento mobile com Flutter. Também sou apaixonado pela carreira de Computação em Nuvem e DevOps.
-
+Sou desenvolvedor de software focado em backend e apaixonado pelo Spring Framework, no frontend utilizo Angular mas estou sempre em busca de novos frameworks.
+Adoro a área de Segurança da Informação e estudo como hobby (por enquanto) tudo o que posso sobre.
+ 
 ## Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-000?style=for-the-badge)](https://web.dio.me/users/gabrie_chagas/)
