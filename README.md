@@ -3,7 +3,7 @@
 Olá, Eu sou o Gabriel, estou no último semestre do bacharelado em Ciências da Computação pela UNESP Rio Claro. Adoro aprender coisas novas e principalmente como elas funcionam por debaixo do capô e encontrei na tecnologia a combinação perfeita disso.
 
 Sou desenvolvedor de software focado em backend e apaixonado pelo Spring Framework, no frontend utilizo Angular mas estou sempre em busca de novos frameworks.
-Adoro a área de Segurança da Informação e estudo como hobby (por enquanto) tudo o que posso sobre.
+Adoro a área de DevOps e Computação em Nuvem e tenho muita vontade de me especialzar aqui.
  
 ## Conecte-se comigo
 
