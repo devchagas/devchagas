@@ -2,5 +2,9 @@
 
 
 "Programmer | Building solutions with code."
+
 "Focused on JavaScript and back-end development."
-"tSharpening skills daily, fueled by coffee and playliss."
+
+"Sharpening skills daily, fueled by coffee and playlist."
+
+"Apaixonado por tecnologia e sempre buscando aprender mais."
